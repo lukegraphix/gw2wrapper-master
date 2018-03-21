@@ -1,4 +1,4 @@
-package me.morphlee;
+package me.lukegraphix;
 
 public class TokenInfo {
 	  private String id;

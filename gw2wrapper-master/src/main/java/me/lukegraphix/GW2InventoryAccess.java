@@ -1,4 +1,4 @@
-package me.morphlee;
+package me.lukegraphix;
 
 import me.xhsun.guildwars2wrapper.GuildWars2;
 
